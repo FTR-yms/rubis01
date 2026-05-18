@@ -1,0 +1,69 @@
+
+guide.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_0
+  rotate: false
+  xy: 8, 868
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+R_0
+  rotate: false
+  xy: 8, 868
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+L_1
+  rotate: false
+  xy: 70, 986
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+R_1
+  rotate: false
+  xy: 70, 986
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+L_2
+  rotate: false
+  xy: 8, 892
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+R_2
+  rotate: false
+  xy: 8, 892
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 2, 2
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 8, 944
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 64
+  size: 4, 958
+  orig: 4, 958
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+icon_fire.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_01
+  rotate: false
+  xy: 67, 137
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+eff_02
+  rotate: false
+  xy: 155, 19
+  size: 59, 66
+  orig: 61, 68
+  offset: 1, 1
+  index: -1
+icon_fire_normal_01
+  rotate: true
+  xy: 146, 152
+  size: 63, 69
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_normal_02
+  rotate: false
+  xy: 84, 78
+  size: 63, 72
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_normal_03
+  rotate: true
+  xy: 67, 152
+  size: 63, 77
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_warning_01
+  rotate: true
+  xy: 67, 152
+  size: 63, 77
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_normal_04
+  rotate: false
+  xy: 2, 135
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_warning_02
+  rotate: false
+  xy: 2, 135
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_out_01
+  rotate: true
+  xy: 84, 13
+  size: 63, 69
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_out_02
+  rotate: false
+  xy: 149, 87
+  size: 63, 63
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_out_03
+  rotate: false
+  xy: 2, 5
+  size: 63, 63
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+icon_fire_warning_03
+  rotate: true
+  xy: 2, 70
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1

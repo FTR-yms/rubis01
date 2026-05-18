@@ -1,0 +1,125 @@
+
+eff_block_01.png
+size: 454,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_00
+  rotate: true
+  xy: 237, 241
+  size: 103, 108
+  orig: 105, 110
+  offset: 1, 1
+  index: -1
+b_01
+  rotate: true
+  xy: 343, 349
+  size: 103, 108
+  orig: 105, 110
+  offset: 1, 1
+  index: -1
+b_02
+  rotate: false
+  xy: 123, 233
+  size: 103, 108
+  orig: 105, 110
+  offset: 1, 1
+  index: -1
+b_03
+  rotate: false
+  xy: 239, 131
+  size: 103, 108
+  orig: 105, 110
+  offset: 1, 1
+  index: -1
+b_04
+  rotate: true
+  xy: 239, 26
+  size: 103, 108
+  orig: 105, 110
+  offset: 1, 1
+  index: -1
+b_05
+  rotate: true
+  xy: 344, 136
+  size: 103, 108
+  orig: 105, 110
+  offset: 1, 1
+  index: -1
+l_00
+  rotate: true
+  xy: 75, 12
+  size: 32, 29
+  orig: 34, 31
+  offset: 1, 1
+  index: -1
+l_01
+  rotate: true
+  xy: 75, 46
+  size: 44, 37
+  orig: 46, 39
+  offset: 1, 1
+  index: -1
+l_02
+  rotate: false
+  xy: 2, 27
+  size: 71, 63
+  orig: 73, 65
+  offset: 1, 1
+  index: -1
+l_03
+  rotate: false
+  xy: 122, 11
+  size: 94, 83
+  orig: 96, 85
+  offset: 1, 1
+  index: -1
+l_04
+  rotate: false
+  xy: 347, 251
+  size: 100, 96
+  orig: 102, 98
+  offset: 1, 1
+  index: -1
+l_05
+  rotate: true
+  xy: 237, 346
+  size: 106, 104
+  orig: 108, 106
+  offset: 1, 1
+  index: -1
+l_06
+  rotate: false
+  xy: 123, 343
+  size: 112, 109
+  orig: 114, 111
+  offset: 1, 1
+  index: -1
+l_07
+  rotate: false
+  xy: 122, 96
+  size: 115, 114
+  orig: 117, 116
+  offset: 1, 1
+  index: -1
+l_08
+  rotate: false
+  xy: 2, 92
+  size: 118, 118
+  orig: 120, 120
+  offset: 1, 1
+  index: -1
+l_09
+  rotate: false
+  xy: 2, 333
+  size: 119, 119
+  orig: 121, 121
+  offset: 1, 1
+  index: -1
+l_10
+  rotate: false
+  xy: 2, 212
+  size: 119, 119
+  orig: 121, 121
+  offset: 1, 1
+  index: -1

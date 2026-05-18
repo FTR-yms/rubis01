@@ -1,0 +1,8 @@
+[
+  {"texture1" : "totem0","direction" : "Center","hp" : 1,"tint" : "0xffffff","score" :50, "rewardGauge" : 1,"freezingTime" : 0,"hitSound": "1"},
+  {"texture1" : "totem1","direction" : "Left", "hp" : 1,"tint" : "0xffffff","score" :50, "rewardGauge" : 1,"freezingTime" : 0,"hitSound": "1"},
+  {"texture1" : "totem1","direction" : "Right", "hp" : 1,"tint" : "0xffffff","score" :50, "rewardGauge" : 1,"freezingTime" : 0,"hitSound": "1"},
+  {"texture1" : "item_box","direction" : "Center", "hp" : 1,"tint" : "0xffffff","score" :50, "rewardGauge" : 1,"freezingTime" : 3,"hitSound": "item"},
+  {"texture2" : "iron0","texture1" : "iron1","direction" : "Center", "hp" : 2,"tint" : "0xffffff","score" :200, "rewardGauge" : 2,"freezingTime" : 0,"hitSound": "2"},
+  {"texture4" : "dia0","texture3": "dia1","texture2": "dia2","texture1": "dia3","direction" : "Center", "hp" : 4,"tint" : "0xffffff","score" :500, "rewardGauge" : 3,"freezingTime" : 0,"hitSound": "3"}
+]

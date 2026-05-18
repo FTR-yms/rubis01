@@ -1,0 +1,27 @@
+
+boss.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 8
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+body01
+  rotate: false
+  xy: 103, 8
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+bubble_short
+  rotate: false
+  xy: 2, 130
+  size: 154, 72
+  orig: 156, 74
+  offset: 1, 1
+  index: -1

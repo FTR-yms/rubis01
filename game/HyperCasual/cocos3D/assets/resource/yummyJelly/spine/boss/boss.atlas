@@ -1,0 +1,69 @@
+
+boss.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20
+  rotate: true
+  xy: 215, 200
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 127
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+bubble_short
+  rotate: false
+  xy: 2, 51
+  size: 156, 74
+  orig: 156, 74
+  offset: 0, 0
+  index: -1
+eye0_L
+  rotate: false
+  xy: 44, 24
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+eye0_R
+  rotate: false
+  xy: 44, 24
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 2, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 2, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+face_acc
+  rotate: false
+  xy: 215, 182
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 173, 131
+  size: 118, 40
+  orig: 118, 40
+  offset: 0, 0
+  index: -1

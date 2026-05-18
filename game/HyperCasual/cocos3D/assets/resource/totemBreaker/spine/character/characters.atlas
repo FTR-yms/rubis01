@@ -1,0 +1,160 @@
+
+characters.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_01
+  rotate: false
+  xy: 340, 350
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+L_arm_02
+  rotate: false
+  xy: 456, 204
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+L_arm_03
+  rotate: false
+  xy: 422, 300
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+R_arm_01
+  rotate: true
+  xy: 422, 250
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+R_arm_02
+  rotate: true
+  xy: 306, 142
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+R_arm_03
+  rotate: true
+  xy: 362, 184
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 2, 7
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+body_face
+  rotate: false
+  xy: 340, 396
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+body_h_side
+  rotate: false
+  xy: 354, 16
+  size: 104, 124
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+body_side
+  rotate: false
+  xy: 222, 10
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+face_normal
+  rotate: false
+  xy: 2, 136
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+face_sad
+  rotate: false
+  xy: 192, 350
+  size: 146, 160
+  orig: 146, 160
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 306, 234
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+h_side_normal
+  rotate: false
+  xy: 152, 142
+  size: 152, 178
+  orig: 152, 178
+  offset: 0, 0
+  index: -1
+side_lol
+  rotate: false
+  xy: 152, 142
+  size: 152, 178
+  orig: 152, 178
+  offset: 0, 0
+  index: -1
+side_normal
+  rotate: false
+  xy: 152, 142
+  size: 152, 178
+  orig: 152, 178
+  offset: 0, 0
+  index: -1
+hammer_00
+  rotate: false
+  xy: 2, 322
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+hammer_01
+  rotate: false
+  xy: 2, 322
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+hammer_02
+  rotate: false
+  xy: 2, 34
+  size: 218, 100
+  orig: 218, 100
+  offset: 0, 0
+  index: -1
+hammer_03
+  rotate: false
+  xy: 2, 34
+  size: 218, 100
+  orig: 218, 100
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 72, 21
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 40, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+cha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_01
+  rotate: true
+  xy: 129, 349
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+L_arm_02
+  rotate: true
+  xy: 291, 321
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+L_arm_03
+  rotate: true
+  xy: 291, 321
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+L_leg_01
+  rotate: true
+  xy: 388, 310
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+L_leg_02
+  rotate: true
+  xy: 2, 340
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+R_arm_01
+  rotate: true
+  xy: 239, 321
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+R_arm_02
+  rotate: true
+  xy: 184, 349
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+R_arm_03
+  rotate: true
+  xy: 184, 349
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+R_leg_01
+  rotate: true
+  xy: 430, 305
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+R_leg_02
+  rotate: true
+  xy: 66, 340
+  size: 43, 61
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 272, 357
+  size: 59, 67
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 373, 443
+  size: 112, 58
+  orig: 114, 58
+  offset: 1, 0
+  index: -1
+eyes_die
+  rotate: true
+  xy: 341, 382
+  size: 34, 28
+  orig: 36, 30
+  offset: 1, 1
+  index: -1
+eyes_normal
+  rotate: true
+  xy: 340, 313
+  size: 32, 46
+  orig: 34, 48
+  offset: 1, 1
+  index: -1
+face_die
+  rotate: false
+  xy: 2, 385
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+face_normal
+  rotate: false
+  xy: 137, 385
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 272, 418
+  size: 99, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+img_shadow
+  rotate: false
+  xy: 373, 401
+  size: 128, 40
+  orig: 128, 40
+  offset: 0, 0
+  index: -1
+pocket_01
+  rotate: false
+  xy: 371, 347
+  size: 67, 52
+  orig: 69, 54
+  offset: 1, 1
+  index: -1
+pocket_02
+  rotate: false
+  xy: 440, 342
+  size: 58, 57
+  orig: 60, 59
+  offset: 1, 1
+  index: -1

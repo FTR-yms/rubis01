@@ -1,0 +1,34 @@
+
+eff_score.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_score_05
+  rotate: true
+  xy: 2, 2
+  size: 237, 216
+  orig: 237, 216
+  offset: 0, 0
+  index: -1
+eff_score_15
+  rotate: true
+  xy: 220, 9
+  size: 230, 216
+  orig: 230, 216
+  offset: 0, 0
+  index: -1
+eff_score_diamond_01
+  rotate: true
+  xy: 438, 200
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+eff_score_diamond_02
+  rotate: true
+  xy: 438, 159
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1

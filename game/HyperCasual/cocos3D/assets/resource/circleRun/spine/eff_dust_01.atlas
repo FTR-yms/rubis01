@@ -1,0 +1,48 @@
+
+eff_dust_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust_01
+  rotate: true
+  xy: 328, 166
+  size: 84, 80
+  orig: 256, 256
+  offset: 84, 86
+  index: -1
+dust_02
+  rotate: false
+  xy: 176, 110
+  size: 150, 140
+  orig: 256, 256
+  offset: 44, 59
+  index: -1
+dust_03
+  rotate: true
+  xy: 2, 72
+  size: 187, 172
+  orig: 256, 256
+  offset: 39, 40
+  index: -1
+dust_04
+  rotate: true
+  xy: 208, 252
+  size: 199, 193
+  orig: 256, 256
+  offset: 33, 40
+  index: -1
+dust_05
+  rotate: false
+  xy: 2, 261
+  size: 204, 190
+  orig: 256, 256
+  offset: 31, 33
+  index: -1
+ting
+  rotate: false
+  xy: 403, 403
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1

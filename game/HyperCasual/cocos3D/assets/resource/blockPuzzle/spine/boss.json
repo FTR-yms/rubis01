@@ -1,0 +1,78 @@
+{
+"skeleton": {
+	"hash": "95rVsEEtvlo",
+	"spine": "3.8-from-4.0-from-4.1.24",
+	"x": -49,
+	"y": -5.32,
+	"width": 99,
+	"height": 120,
+	"images": "./images/",
+	"audio": "C:/Users/FTR_ART03/Desktop/한붓그리기/boss_spine"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "boss", "parent": "root", "color": "ff0000ff" },
+	{ "name": "bubble", "parent": "root", "x": -40.98, "y": 305.7, "color": "0007ffff" }
+],
+"slots": [
+	{ "name": "background", "bone": "root" },
+	{ "name": "body", "bone": "boss", "attachment": "body" },
+	{ "name": "bubble_short", "bone": "bubble" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 0.5, "y": 54.68, "width": 99, "height": 120 },
+				"body01": { "x": 0.5, "y": 54.68, "width": 99, "height": 120 }
+			},
+			"bubble_short": {
+				"bubble_short": { "x": 76.98, "y": 36.3, "width": 156, "height": 74 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle_look_ground": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "time": 3.3333, "name": "body01" },
+					{ "time": 3.6, "name": "body" },
+					{ "time": 3.8667, "name": "body01" },
+					{ "time": 4.1333, "name": "body" }
+				]
+			}
+		},
+		"bones": {
+			"boss": {
+				"rotate": [
+					{ "angle": 5 },
+					{ "time": 3.3333, "angle": -5 },
+					{ "time": 6.6667, "angle": 5 }
+				]
+			}
+		}
+	},
+	"intro": {
+		"slots": {
+			"body": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"boss": {
+				"translate": [
+					{ "y": -89.44 },
+					{ "time": 0.3333, "y": 11.22 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

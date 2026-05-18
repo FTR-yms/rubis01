@@ -1,0 +1,27 @@
+
+coin_bonus_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_1
+  rotate: false
+  xy: 168, 202
+  size: 98, 64
+  orig: 100, 66
+  offset: 1, 1
+  index: -1
+bonus_2
+  rotate: false
+  xy: 52, 206
+  size: 114, 60
+  orig: 116, 62
+  offset: 1, 1
+  index: -1
+ting
+  rotate: false
+  xy: 2, 218
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1

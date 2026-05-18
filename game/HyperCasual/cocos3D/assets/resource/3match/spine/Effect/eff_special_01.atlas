@@ -1,0 +1,34 @@
+
+eff_special_01.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back_base
+  rotate: false
+  xy: 2, 1557
+  size: 995, 140
+  orig: 997, 142
+  offset: 1, 1
+  index: -1
+back_eff
+  rotate: false
+  xy: 1433, 1433
+  size: 264, 264
+  orig: 266, 266
+  offset: 1, 1
+  index: -1
+thunder
+  rotate: true
+  xy: 2, 1363
+  size: 180, 1107
+  orig: 182, 1109
+  offset: 1, 1
+  index: -1
+thunder_point
+  rotate: false
+  xy: 999, 1545
+  size: 432, 152
+  orig: 434, 154
+  offset: 1, 1
+  index: -1

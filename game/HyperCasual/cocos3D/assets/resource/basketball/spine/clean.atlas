@@ -1,0 +1,139 @@
+
+clean.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLEAN
+  rotate: false
+  xy: 2, 80
+  size: 95, 32
+  orig: 95, 32
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 126, 36
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+star_01_tail
+  rotate: true
+  xy: 2, 2
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 230, 108
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+star_02_tail
+  rotate: false
+  xy: 111, 202
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+star_03
+  rotate: false
+  xy: 187, 117
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+star_03_tail
+  rotate: false
+  xy: 2, 114
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+star_04
+  rotate: false
+  xy: 196, 159
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+star_04_tail
+  rotate: true
+  xy: 107, 121
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+star_05
+  rotate: false
+  xy: 230, 133
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+star_05_tail
+  rotate: true
+  xy: 107, 102
+  size: 17, 66
+  orig: 17, 66
+  offset: 0, 0
+  index: -1
+star_06
+  rotate: false
+  xy: 126, 6
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+star_06_tail
+  rotate: false
+  xy: 85, 8
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+star_07
+  rotate: false
+  xy: 193, 204
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+star_07_tail
+  rotate: false
+  xy: 2, 185
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+star_08
+  rotate: false
+  xy: 161, 78
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+star_08_tail
+  rotate: true
+  xy: 37, 4
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+star_09
+  rotate: false
+  xy: 126, 67
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+star_09_tail
+  rotate: false
+  xy: 111, 163
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1

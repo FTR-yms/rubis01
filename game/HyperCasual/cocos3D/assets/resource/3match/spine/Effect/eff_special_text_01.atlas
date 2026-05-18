@@ -1,0 +1,83 @@
+
+eff_special_text_01.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eff01
+  rotate: false
+  xy: 2, 486
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff02
+  rotate: false
+  xy: 2, 244
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff03
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff04
+  rotate: false
+  xy: 244, 486
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff05
+  rotate: false
+  xy: 244, 244
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff06
+  rotate: false
+  xy: 244, 2
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff07
+  rotate: false
+  xy: 486, 496
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff08
+  rotate: false
+  xy: 486, 254
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+eff09
+  rotate: false
+  xy: 486, 12
+  size: 240, 240
+  orig: 242, 242
+  offset: 1, 1
+  index: -1
+text_boom
+  rotate: false
+  xy: 383, 738
+  size: 369, 110
+  orig: 372, 115
+  offset: 1, 3
+  index: -1
+text_boom_light
+  rotate: false
+  xy: 2, 728
+  size: 379, 120
+  orig: 384, 127
+  offset: 2, 4
+  index: -1

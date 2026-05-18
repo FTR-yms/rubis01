@@ -1,0 +1,97 @@
+
+block_08.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+block_07_light
+  rotate: false
+  xy: 572, 281
+  size: 186, 186
+  orig: 207, 207
+  offset: 10, 11
+  index: -1
+block_08
+  rotate: false
+  xy: 2, 2
+  size: 156, 156
+  orig: 158, 158
+  offset: 1, 1
+  index: -1
+block_08_icon
+  rotate: false
+  xy: 670, 219
+  size: 60, 60
+  orig: 66, 66
+  offset: 3, 3
+  index: -1
+block_08_star
+  rotate: false
+  xy: 569, 116
+  size: 62, 62
+  orig: 68, 68
+  offset: 3, 3
+  index: -1
+eff_back
+  rotate: false
+  xy: 160, 12
+  size: 146, 146
+  orig: 148, 148
+  offset: 1, 1
+  index: -1
+eff_dust_1
+  rotate: false
+  xy: 424, 469
+  size: 285, 229
+  orig: 287, 231
+  offset: 1, 1
+  index: -1
+eff_dust_2
+  rotate: false
+  xy: 424, 700
+  size: 320, 320
+  orig: 322, 322
+  offset: 1, 1
+  index: -1
+eff_dust_3
+  rotate: false
+  xy: 746, 729
+  size: 264, 291
+  orig: 266, 293
+  offset: 1, 1
+  index: -1
+eff_light_big
+  rotate: false
+  xy: 2, 510
+  size: 420, 510
+  orig: 462, 560
+  offset: 20, 28
+  index: -1
+eff_light_center
+  rotate: false
+  xy: 2, 160
+  size: 363, 348
+  orig: 432, 424
+  offset: 34, 37
+  index: -1
+eff_link
+  rotate: false
+  xy: 569, 180
+  size: 99, 99
+  orig: 106, 106
+  offset: 3, 4
+  index: -1
+eff_ring
+  rotate: false
+  xy: 367, 283
+  size: 203, 184
+  orig: 205, 186
+  offset: 1, 1
+  index: -1
+eff_star
+  rotate: false
+  xy: 367, 99
+  size: 200, 182
+  orig: 241, 214
+  offset: 16, 16
+  index: -1
